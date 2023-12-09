@@ -38,4 +38,4 @@ Add the following to your `Cargo.toml` file:
 ```toml
 [dependencies]
 sysctrlcmd = "*"
-``````
+```
