@@ -9,10 +9,10 @@ The table below outlines the support for various system commands across Windows,
 |----------------|---------|-------|-------|
 | Lock           | ✔       | ❌     | ❌     |
 | Logoff         | ✔       | ❌     | ❌    |
-| Hibernate      | ✔       | ❌     | ❌     |
-| Suspend        | ✔       | ❌     | ❌     |
-| Restart        | ✔       | ❌     | ❌     |
-| Shutdown       | ✔       | ❌     | ❌     |
+| Hibernate      | ✔       | ✔      | ❌     |
+| Suspend        | ✔       | ✔      | ❌     |
+| Restart        | ✔       | ✔      | ❌     |
+| Shutdown       | ✔       | ✔      | ❌     |
 
 * ✔ - Supported
 * ❌ - Not Supported / Not Applicable
