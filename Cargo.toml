@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = ["SourM1lk <soursoursoursour@gmail.com>"]
 edition = "2021"
 license = "MIT OR Apache-2.0"
-description = "System Commands for Linux, Windows, and MacOS"
+description = "System Commands for Linux, Windows, and MacOS (logoff, shutdown, reboot, etc.)"
 repository = "https://github.com/SourM1lk/sysctrlcmd"
 
 # Linux-specific dependencies
