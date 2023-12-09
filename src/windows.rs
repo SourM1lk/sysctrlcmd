@@ -1,7 +1,6 @@
-use super::SystemCommands;
 use winapi::um::winuser::{ExitWindowsEx, LockWorkStation};
 use winapi::um::powrprof::SetSuspendState;
-use winapi::um::winnt::{EWX_LOGOFF, EWX_REBOOT, EWX_SHUTDOWN, EWX_FORCE};
+use winapi::um::winuser::{EWX_LOGOFF, EWX_REBOOT, EWX_SHUTDOWN, EWX_FORCE};
 
 pub struct WindowsCommands;
 
