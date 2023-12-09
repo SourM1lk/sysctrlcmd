@@ -1,10 +1,11 @@
 [package]
 name = "sysctrlcmd"
-license = "MIT"
-version = "0.1.0"
+version = "1.0.0"
+authors = ["SourM1lk <soursoursoursour@gmail.com>"]
 edition = "2021"
-
-# Common dependencies
+license = "MIT OR Apache-2.0"
+description = "System Commands for Linux, Windows, and MacOS"
+repository = "https://github.com/SourM1lk/sysctrlcmd"
 
 # Linux-specific dependencies
 [target.'cfg(target_os = "linux")'.dependencies]
